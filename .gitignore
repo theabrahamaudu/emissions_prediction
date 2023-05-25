@@ -4,4 +4,7 @@
 # .docx files
 All Results.docx
 
+# Notebook checkpoints
+.ipynb_checkpoints
+
 
